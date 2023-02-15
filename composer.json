@@ -1,5 +1,5 @@
 {
-  "name": "rollbar/rollbar",
+  "name": "l2interactive/rollbar",
   "description": "Monitors errors and exceptions and reports them to Rollbar",
   "type": "library",
   "keywords": ["logging", "debugging", "monitoring", "errors", "exceptions"],
